@@ -1,0 +1,130 @@
+/**********************************************************************
+* Compiler Project – Phase 2                                          *
+* Language : Eiffel                                                   *
+* Team :                                                              *
+*   1. Sadra Samadi             - 9312268122                          *
+*   2. Hamid Hosseini Nejad     - 9312268110                          *
+***********************************************************************/
+
+import java_cup.runtime.*;
+
+parser code {:
+
+    public void report_error(String message, Object info) {
+        String error = "Error";
+        if (info instanceof Symbol) {
+            Symbol symbol = ((Symbol) info);
+            error += " in line " + (symbol.left + 1);
+            error += ", column " + (symbol.right + 1);
+        }
+        error += " : " + message;
+        System.err.println(error);
+        System.exit(0);
+    }
+
+    public void report_fatal_error(String message, Object info) {
+        report_error(message, info);
+    }
+
+:};
+
+terminal                CLASS;
+terminal                CREATE;
+terminal                FEATURE;
+terminal                INTEGER_TYPE;
+terminal                DO;
+terminal                END;
+terminal                IF;
+terminal                THEN;
+terminal                ELSE;
+terminal                FROM;
+terminal                UNTIL;
+terminal                LOOP;
+terminal                PRINT;
+terminal                TRUE;
+terminal                FALSE;
+
+terminal                ASSIGN;
+terminal                COLON;
+terminal                EQUAL;
+terminal                GREATER;
+terminal                GREATER_EQUAL;
+terminal                SMALLER;
+terminal                SMALLER_EQUAL;
+terminal                PLUS;
+terminal                MINUS;
+terminal                UMINUS;
+terminal                TIMES;
+terminal                DIVIDE;
+terminal                MOD;
+terminal                LPAREN;
+terminal                RPAREN;
+
+terminal String         IDENTIFIER;
+terminal Integer        INTEGER;
+terminal String         STRING_LITERAL;
+
+non terminal Object     app;
+non terminal Object     feature_list;
+non terminal Object     defination;
+non terminal Object     function;
+non terminal Object     statement_list;
+non terminal Object     statement;
+non terminal Integer    expr;
+non terminal Object     conditional;
+non terminal Boolean    condition;
+non terminal Object     loop;
+
+precedence left PLUS, MINUS;
+precedence left TIMES, DIVIDE, MOD;
+precedence left UMINUS;
+
+app ::= CLASS IDENTIFIER:cls {: System.out.println("declare class <" + cls + ">\n"); :}
+CREATE IDENTIFIER:mk {: System.out.println("create class by calling <" + mk + "> function\n"); :}
+{: System.out.println("class features :\n"); :} FEATURE feature_list
+END {: System.out.println("end feature\n"); :}
+| /* empty */;
+
+feature_list ::= feature_list defination | feature_list function | /* empty */;
+
+defination ::= IDENTIFIER:id COLON INTEGER_TYPE {: Eiffel.define(id); :};
+
+function ::= IDENTIFIER:id {: System.out.println("declare function <" + id + "> :\n"); :}
+DO statement_list
+END {: System.out.println("end function <" + id + ">\n"); :};
+
+statement_list ::= statement_list statement | /* empty */;
+
+statement ::= IDENTIFIER:id ASSIGN {: System.out.print("assign {"); :} expr:n {: Eiffel.assign(id, n); :}
+| IDENTIFIER:id LPAREN RPAREN {: System.out.println("call function <" + id + ">\n"); :}
+| PRINT LPAREN STRING_LITERAL:s RPAREN {: System.out.println("print \"" + s + "\"\n"); :}
+| conditional
+| loop;
+
+expr ::= expr:e1 PLUS {: System.out.print("+"); :} expr:e2 {: RESULT = e1 + e2; :}
+| expr:e1 MINUS {: System.out.print("-"); :} expr:e2 {: RESULT = e1 - e2; :}
+| expr:e1 TIMES {: System.out.print("*"); :} expr:e2 {: RESULT = e1 * e2; :}
+| expr:e1 DIVIDE {: System.out.print("/"); :} expr:e2 {: RESULT = e1 / e2; :}
+| expr:e1 MOD {: System.out.print("%"); :} expr:e2 {: RESULT = e1 % e2; :}
+| MINUS {: System.out.print("-"); :} expr:e {: RESULT = -e; :} %prec UMINUS
+| LPAREN {: System.out.print("("); :} expr:e RPAREN {: RESULT = e; System.out.print(")"); :}
+| INTEGER:i {: RESULT = i; System.out.print(i); :}
+| IDENTIFIER:id {: RESULT = Eiffel.get(id); :};
+
+conditional ::= IF {: System.out.print("if {"); :} condition:c
+THEN {: System.out.println("}=" + c + " then :\n"); :} statement_list
+ELSE {: System.out.println("else :\n"); :} statement_list
+END {: System.out.println("end if\n"); :};
+
+condition ::= expr:e1 EQUAL {: System.out.print("="); :} expr:e2 {: RESULT = (e1 == e2); :}
+| expr:e1 GREATER {: System.out.print(">"); :} expr:e2 {: RESULT = (e1 > e2); :}
+| expr:e1 GREATER_EQUAL {: System.out.print(">="); :} expr:e2 {: RESULT = (e1 >= e2); :}
+| expr:e1 SMALLER {: System.out.print("<"); :} expr:e2 {: RESULT = (e1 < e2); :}
+| expr:e1 SMALLER_EQUAL {: System.out.print("<="); :} expr:e2 {: RESULT = (e1 <= e2); :}
+| TRUE {: RESULT = true; System.out.print("true"); :}
+| FALSE {: RESULT = false; System.out.print("false"); :};
+
+loop ::= FROM {: System.out.print("start loop by "); :} statement
+UNTIL {: System.out.print("loop until {"); :}
+condition:c {: System.out.println("}=" + c + " :\n"); :}
+LOOP statement_list END {: System.out.println("end loop\n"); :};

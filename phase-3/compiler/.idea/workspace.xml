@@ -1,0 +1,1178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f79d66f-0536-4acb-8ca4-210a18fff69a" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>lexer</find>
+      <find>scann</find>
+      <find>RESULT</find>
+      <find>symbol</find>
+      <find>init</find>
+      <find>); }</find>
+      <find />
+      <find>condition</find>
+      <find>expr</find>
+      <find>n</find>
+      <find>scope</find>
+      <find>yyline</find>
+      <find>error</find>
+      <find>&quot;--&quot;.&quot;</find>
+      <find>\&quot;(.)*\&quot;</find>
+      <find>&quot;.*&quot;</find>
+      <find>\&quot;.*\&quot;</find>
+      <find>sym.</find>
+      <find>Constants</find>
+      <find>&quot;--&quot; {INPUT_CHARACTER}* {LINE_TERMINATOR}?</find>
+      <find>&quot;--&quot; [^\r\n]* {LINE_TERMINATOR}?</find>
+      <find>number</find>
+      <find>n2</find>
+      <find>Eiffel.args = al;</find>
+      <find>Eiffel.args = a;</find>
+      <find>n2.value</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>\t\t); }</replace>
+      <replace>Constants</replace>
+      <replace>Constants.</replace>
+      <replace>number</replace>
+      <replace>n1</replace>
+      <replace>n2</replace>
+      <replace>:n</replace>
+      <replace>expr</replace>
+      <replace>e1</replace>
+      <replace>e2</replace>
+      <replace>((int)n1.value)</replace>
+      <replace>((int)n2.value)</replace>
+    </replaceStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lib/jflex-1.6.1.jar!/java_cup/runtime/Scanner.class" />
+        <option value="$PROJECT_DIR$/res/calc.cup" />
+        <option value="$PROJECT_DIR$/res/java.flex" />
+        <option value="$PROJECT_DIR$/res/java.cup" />
+        <option value="$PROJECT_DIR$/res/test.txt" />
+        <option value="$PROJECT_DIR$/res/test.e" />
+        <option value="$PROJECT_DIR$/res/inout.txt" />
+        <option value="$PROJECT_DIR$/src/parser.java" />
+        <option value="$PROJECT_DIR$/src/Lexer.java" />
+        <option value="$PROJECT_DIR$/src/Parser.java" />
+        <option value="$PROJECT_DIR$/res/eiffel.flex" />
+        <option value="$PROJECT_DIR$/res/eiffel.cup" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/res/app.e" />
+        <option value="$PROJECT_DIR$/src/Eiffel.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>DefaultFileTemplate</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="compiler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="compiler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="compiler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="compiler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Parser.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="compiler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="compiler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="compiler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="compiler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="compiler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="compiler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SearchEverywhereHistoryKey" value="symbol&#9;PSI&#9;JAVA://java_cup.symbol" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Data\IdeaProjects\compiler\res" />
+      <recent name="C:\Data\IdeaProjects\compiler\lib" />
+      <recent name="C:\Data\IdeaProjects\compiler\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Data\IdeaProjects\compiler\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="res\app.e" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="compiler" />
+      <envs />
+      <method>
+        <option name="RunConfigurationTask" enabled="true" run_configuration_name="cup" run_configuration_type="JarApplication" />
+        <option name="RunConfigurationTask" enabled="true" run_configuration_name="jflex" run_configuration_type="JarApplication" />
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="compiler" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="false" name="cup" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="JAR_PATH" value="$PROJECT_DIR$/lib/java-cup-11a.jar" />
+      <option name="PROGRAM_PARAMETERS" value="-parser &quot;Parser&quot; -symbols &quot;Constants&quot; &quot;$PROJECT_DIR$/res/eiffel.cup&quot;" />
+      <option name="WORKING_DIRECTORY" value="C:\Data\IdeaProjects\compiler\src" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="jflex" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="JAR_PATH" value="$PROJECT_DIR$/lib/jflex-1.6.1.jar" />
+      <option name="PROGRAM_PARAMETERS" value="-d &quot;$PROJECT_DIR$/src&quot; &quot;$PROJECT_DIR$/res/eiffel.flex&quot;" />
+      <option name="WORKING_DIRECTORY" value="C:\Data\IdeaProjects\compiler" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="JAR Application.cup" />
+      <item index="1" class="java.lang.String" itemvalue="JAR Application.jflex" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f79d66f-0536-4acb-8ca4-210a18fff69a" name="Default" comment="" />
+      <created>1496056291559</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1496056291559</updated>
+      <workItem from="1496056292835" duration="3605000" />
+      <workItem from="1496059957952" duration="12874000" />
+      <workItem from="1496133479842" duration="2568000" />
+      <workItem from="1496137160578" duration="15661000" />
+      <workItem from="1496226477359" duration="568000" />
+      <workItem from="1496397892060" duration="27983000" />
+      <workItem from="1496427437792" duration="2317000" />
+      <workItem from="1498673484184" duration="1303000" />
+      <workItem from="1498677476487" duration="16378000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="83257000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.39863843" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32820514" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2065053" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="8" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Eiffel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/eiffel.flex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="72" column="55" lean-forward="false" selection-start-line="72" selection-start-column="55" selection-end-line="72" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/eiffel.cup">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="28" lean-forward="true" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
+          <folding>
+            <marker date="1498704530689" expanded="true" signature="568:968" ph="{...}" />
+            <marker date="1498704530689" expanded="false" signature="1027:1038" ph=" { " />
+            <marker date="1498704530689" expanded="false" signature="1066:1072" ph=" }" />
+            <marker date="1498704530689" expanded="true" signature="3649:3665" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="3667:3852" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="3820:3852" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="3852:3917" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="3892:3917" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="3936:3960" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4028:4046" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4046:4120" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4081:4120" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4158:4172" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4191:4230" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4230:4320" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4295:4320" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4340:4403" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4403:4541" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4512:4541" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4589:4631" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4631:4696" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4633:4696" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4731:4745" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4764:4799" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4856:4887" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4901:4972" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4932:4940" ph="&lt;~&gt;" />
+            <marker date="1498704530689" expanded="true" signature="4985:5087" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4997:5010" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5010:5083" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5034:5083" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5087:5114" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5126:5208" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5241:5323" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5357:5439" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5474:5556" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5588:5670" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5693:5733" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5777:5790" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5805:5857" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5807:5817" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5807:5857" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5878:5904" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="16" column="12" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lexer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10755">
+          <caret line="741" column="13" lean-forward="true" selection-start-line="741" selection-start-column="13" selection-end-line="741" selection-end-column="13" />
+          <folding>
+            <marker date="1498705263487" expanded="true" signature="27060:27153" ph="{...}" />
+            <marker date="1498705263487" expanded="true" signature="27157:27414" ph="/**...*/" />
+            <marker date="1498705263487" expanded="true" signature="27456:28807" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/eiffel.cup">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1498704530689" expanded="true" signature="568:968" ph="{...}" />
+            <marker date="1498704530689" expanded="false" signature="1027:1038" ph=" { " />
+            <marker date="1498704530689" expanded="false" signature="1066:1072" ph=" }" />
+            <marker date="1498704530689" expanded="true" signature="3649:3665" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="3667:3852" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="3820:3852" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="3852:3917" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="3892:3917" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="3936:3960" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4028:4046" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4046:4120" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4081:4120" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4158:4172" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4191:4230" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4230:4320" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4295:4320" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4340:4403" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4403:4541" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4512:4541" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4589:4631" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4631:4696" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4633:4696" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4731:4745" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4764:4799" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4856:4887" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4901:4972" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4932:4940" ph="&lt;~&gt;" />
+            <marker date="1498704530689" expanded="true" signature="4985:5087" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4997:5010" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5010:5083" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5034:5083" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5087:5114" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5126:5208" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5241:5323" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5357:5439" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5474:5556" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5588:5670" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5693:5733" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5777:5790" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5805:5857" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5807:5817" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5807:5857" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5878:5904" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lexer.java" />
+    <entry file="file://$PROJECT_DIR$/res/eiffel.cup">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <marker date="1498704530689" expanded="true" signature="568:968" ph="{...}" />
+            <marker date="1498704530689" expanded="false" signature="1027:1038" ph=" { " />
+            <marker date="1498704530689" expanded="false" signature="1066:1072" ph=" }" />
+            <marker date="1498704530689" expanded="true" signature="3649:3665" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="3667:3852" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="3820:3852" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="3852:3917" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="3892:3917" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="3936:3960" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4028:4046" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4046:4120" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4081:4120" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4158:4172" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4191:4230" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4230:4320" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4295:4320" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4340:4403" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4403:4541" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4512:4541" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4589:4631" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4631:4696" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4633:4696" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4731:4745" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4764:4799" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4856:4887" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4901:4972" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4932:4940" ph="&lt;~&gt;" />
+            <marker date="1498704530689" expanded="true" signature="4985:5087" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4997:5010" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5010:5083" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5034:5083" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5087:5114" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5126:5208" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5241:5323" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5357:5439" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5474:5556" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5588:5670" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5693:5733" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5777:5790" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5805:5857" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5807:5817" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5807:5857" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5878:5904" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/calc.cup" />
+    <entry file="file://$PROJECT_DIR$/res/eiffel.flex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/calc.flex" />
+    <entry file="file://$PROJECT_DIR$/res/app.e">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/eiffel.flex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/calc.cup" />
+    <entry file="jar://$PROJECT_DIR$/lib/jflex-1.6.1.jar!/java_cup/runtime/Scanner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Parser.java" />
+    <entry file="file://$PROJECT_DIR$/src/scanner.java" />
+    <entry file="file://$PROJECT_DIR$/.idea/libraries/lib.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/java-cup-11b.jar!/java_cup/Main.class" />
+    <entry file="jar://$PROJECT_DIR$/lib/java-cup-11a.jar!/java_cup/symbol.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="110" column="19" lean-forward="false" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/java.cup" />
+    <entry file="file://$PROJECT_DIR$/res/java.flex" />
+    <entry file="file://$PROJECT_DIR$/res/calc.flex" />
+    <entry file="file://$PROJECT_DIR$/res/test.txt" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="888" column="18" lean-forward="true" selection-start-line="888" selection-start-column="18" selection-end-line="888" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/test.e" />
+    <entry file="file://$PROJECT_DIR$/res/calc.cup" />
+    <entry file="file://$PROJECT_DIR$/src/sym.java" />
+    <entry file="file://$PROJECT_DIR$/res/inout.txt" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Error.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="68" column="11" lean-forward="false" selection-start-line="68" selection-start-column="11" selection-end-line="68" selection-end-column="11" />
+          <folding>
+            <element signature="e#1855#1856#0" expanded="false" />
+            <element signature="e#1885#1886#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/AbstractStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="848" column="33" lean-forward="false" selection-start-line="848" selection-start-column="33" selection-end-line="848" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="261" column="18" lean-forward="false" selection-start-line="261" selection-start-column="18" selection-end-line="261" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/jflex-1.6.1-sources.jar!/java_cup/runtime/lr_parser.java" />
+    <entry file="jar://$USER_HOME$/.ideaLibSources/jflex-1.6.1-sources.jar!/java_cup/runtime/Scanner.java" />
+    <entry file="jar://$USER_HOME$/.ideaLibSources/jflex-1.6.1-sources.jar!/java_cup/runtime/SymbolFactory.java" />
+    <entry file="jar://$USER_HOME$/.ideaLibSources/jflex-1.6.1-sources.jar!/java_cup/runtime/Symbol.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Runtime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="103" column="16" lean-forward="false" selection-start-line="103" selection-start-column="16" selection-end-line="103" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="970" column="30" lean-forward="true" selection-start-line="970" selection-start-column="30" selection-end-line="970" selection-end-column="30" />
+          <folding>
+            <element signature="e#40171#40172#0" expanded="false" />
+            <element signature="e#40220#40221#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lexer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="733" column="13" lean-forward="false" selection-start-line="733" selection-start-column="13" selection-end-line="733" selection-end-column="13" />
+          <folding>
+            <marker date="1498705263487" expanded="true" signature="27060:27153" ph="{...}" />
+            <marker date="1498705263487" expanded="true" signature="27157:27414" ph="/**...*/" />
+            <marker date="1498705263487" expanded="true" signature="27456:28807" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Parser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="454" column="71" lean-forward="false" selection-start-line="454" selection-start-column="71" selection-end-line="454" selection-end-column="71" />
+          <folding>
+            <marker date="1498705263065" expanded="true" signature="30756:30764" ph="&lt;~&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/eiffel.flex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1150">
+          <caret line="1" column="28" lean-forward="false" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/eiffel.cup">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1795">
+          <caret line="1" column="28" lean-forward="false" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+          <folding>
+            <marker date="1498704530689" expanded="true" signature="568:968" ph="{...}" />
+            <marker date="1498704530689" expanded="false" signature="1027:1038" ph=" { " />
+            <marker date="1498704530689" expanded="false" signature="1066:1072" ph=" }" />
+            <marker date="1498704530689" expanded="true" signature="3649:3665" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="3667:3852" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="3820:3852" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="3852:3917" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="3892:3917" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="3936:3960" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4028:4046" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4046:4120" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4081:4120" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4158:4172" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4191:4230" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4230:4320" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4295:4320" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4340:4403" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4403:4541" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4512:4541" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4589:4631" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4631:4696" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4633:4696" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4731:4745" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4764:4799" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4856:4887" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4901:4972" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4932:4940" ph="&lt;~&gt;" />
+            <marker date="1498704530689" expanded="true" signature="4985:5087" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="4997:5010" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5010:5083" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5034:5083" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5087:5114" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5126:5208" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5241:5323" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5357:5439" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5474:5556" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5588:5670" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5693:5733" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5777:5790" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5805:5857" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5807:5817" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5807:5857" ph="{...}" />
+            <marker date="1498704530689" expanded="true" signature="5878:5904" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/app.e">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="31" lean-forward="true" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Eiffel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
